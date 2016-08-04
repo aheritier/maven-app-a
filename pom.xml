@@ -12,6 +12,7 @@
       <groupId>com.mycompany.app</groupId>
       <artifactId>maven-jar-for-app-a</artifactId>
       <version>1.0-SNAPSHOT</version>
+      <classifier>client</classifier>
     </dependency>
     <dependency>
       <groupId>junit</groupId>
